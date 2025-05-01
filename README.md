@@ -82,7 +82,7 @@ The input CSV file should contain the following columns:
 
 Here’s a preview of the generated interactive fire map:
 
-![FireVizz Map Screenshot](https://your-image-url.com/firevizz_map_example.png)  
+![FireVizz Map Screenshot](![FireVizz Output Map](https://raw.githubusercontent.com/RipunjayS109/firevizz/main/Output_Map_exp.png))  
 *Example fire prediction and sensor overlay map.*
 
 > ℹ️ Don't forget to open `fire_map.html` in your browser to explore the interactive features!
