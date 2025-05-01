@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/RipunjayS109/firevizz/main/bannerFV.png.jpg)
 
 # 🔥 FireVizz
 
