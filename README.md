@@ -1,5 +1,5 @@
-![FireVizz Map Screenshot](https://your-image-url.com/firevizz_map_example.png)  
-*Example fire prediction and sensor overlay map.*
+![](https://github.com/Deep877uii/pics/blob/e09adb90de24bcf335a937603ff174c45abc1b04/FireVizz.jpg)  
+
 
 # 🔥 FireVizz
 
