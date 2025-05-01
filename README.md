@@ -1,4 +1,4 @@
-![](https://github.com/Deep877uii/pics/blob/e09adb90de24bcf335a937603ff174c45abc1b04/FireVizz.jpg)  
+![]([https://github.com/Deep877uii/pics/blob/e09adb90de24bcf335a937603ff174c45abc1b04/FireVizz.jpg](https://github.com/Deep877uii/pics/blob/main/FireVizz.jpg))  
 
 
 # 🔥 FireVizz
